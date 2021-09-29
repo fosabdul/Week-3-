@@ -1,0 +1,41 @@
+h2{
+    font-family: Calibri; 
+    font-size: 45pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:rgb(42, 42, 34);
+    text-align: center; 
+    text-decoration: underline
+  
+  }
+
+  #body{
+    display: flex;
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: large;
+  
+    font-weight: 500;
+    
+  }
+  .container{
+    max-width: 900px;
+    width: 100%;
+    background-color: rgb(201, 225, 207);
+    padding: 40px 40px;
+    border-radius: 5px;
+    margin: 20px 0 12px 0;
+
+  }
+  
+    
+
+.well{
+  text-align: center;
+  background-color: rgb(49, 214, 49);
+
+}
+

@@ -1,0 +1,113 @@
+p {
+    color : blue
+
+    font-size 15px;
+    }
+
+h1{
+    color: #f6f1f1
+    font-size 25px;
+    text-align: center;
+   
+   color: darkmagenta;
+    
+
+}
+.logo
+ {
+     height: 48px;
+     padding: auto;
+ }
+
+h2 {
+    font-size: 30px;
+    background-color: khaki;
+
+    /** the font size **/ 
+}
+
+
+body { 
+    background-color: white
+    (95, 55, 95, 0.288);
+
+}
+#name{
+    font-family:fantasy;
+    font-size: 15;
+}
+
+#most-favorite{
+    background-color: rgb(12, 192, 241);
+    text-decoration:teal;
+    text-rendering: initial;
+    font-size: 15px;
+}
+.second-favorite{
+    background-color: lawngreen;
+}
+.favorite-section{
+    border-radius: 0vmax;
+    text-align: center;
+
+}
+
+
+
+#books{
+    text-align: center;
+}
+
+ul {
+    background-color: rgb(238, 233, 233)
+    (255, 0, 0);
+}
+
+#page-title {
+    text-decoration: burlywood;
+    background-color: khaki;
+}
+#FMN{
+    font-size: 15px;
+
+    background-color: rgb(0, 255, 179);
+}
+
+.favorite-section{
+
+    background-color: rgb(245, 240, 240);
+    border: 5px rgb(126, 80, 80) solid;
+    margin: 5px;
+    padding: 9px;
+    
+
+}
+.Picture{
+    font-size: 20;
+    background-color: rgb(177, 187, 164);
+    text-shadow:yellowgreen;
+}
+
+
+table, tr, th, td{
+    border: 5px black solid;
+ 
+
+}
+th{
+    width: 300px;
+    background-color:  rgb(201, 177, 223);
+}
+td {
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: rgb(179, 212, 212);
+}
+tr:nth-child(odd){
+    background-color: rgb(218, 218, 156);
+
+}
+.container{
+    background-color: darkcyan;
+}
